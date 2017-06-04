@@ -1,12 +1,14 @@
 body {
   font-family:      Verdana, Geneva, Arial, sans-serif;
   font-size:        medium;
-  background-color: tan;
+  background-color: pink;
   margin-top:       5%;
   margin-bottom:    5%;
   margin-left:      10%;
   margin-right:     10%;
   padding:          10px 10px 10px 10px;
+  text-align:       center;
+  margin:           0px auto;
 }
 a {
   text-decoration:  none; 
@@ -52,6 +54,7 @@ border:             1px solid #909090;
 color:              #2a2a2a;
 padding:            5px 5px 2px;
 border-collapse:    collapse;
+margin:             0px auto;
 }
 
 td, th {
