@@ -9,6 +9,9 @@ body {
   padding:          10px 10px 10px 10px;
   text-align:       center;
   margin:           0px auto;
+  background-repeat:no-repeat;  
+  background-position:0% 0%;  
+  background-size:cover;
 }
 a {
   text-decoration:  none; 
