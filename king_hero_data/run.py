@@ -7,10 +7,10 @@ app = Flask(__name__)
 @app.route('/entry')
 
 def entry_page() -> 'html':
-    output_prompt = '请输入你想要搜索的英雄名'
+    output_prompt = '请输入你想要搜索的英雄'
     return render_template('entry.html',
                            the_output_prompt=output_prompt,
-                           the_entry_title='欢迎来到王者荣耀！')
+                           the_entry_title='王者荣耀英雄查询')
 
 
 @app.route('/search4', methods=['POST'])
