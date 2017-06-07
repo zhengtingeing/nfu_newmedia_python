@@ -1,16 +1,17 @@
 body {
-  font-family:      微软雅黑;
+  font-family:      Verdana, Geneva, Arial, sans-serif;
   font-size:        medium;
-  background-image: url('1.jpg');
-  background-repeat:no-repeat;                     
+  background-image: url('444.jpg');
   margin-top:       5%;
-  background-size:  cover;
   margin-bottom:    5%;
   margin-left:      10%;
   margin-right:     10%;
   padding:          10px 10px 10px 10px;
   text-align:       center;
-  margin:           0px auto
+  margin:           0px auto;
+  background-repeat:no-repeat;  
+  background-position:0% 0%;  
+  background-size:cover;
 }
 a {
   text-decoration:  none; 
@@ -51,32 +52,25 @@ td, th {
 
 table {
 font-size:          1em;
-background-color:   #EEEEEE;
+background-color:   #fafcff;
+border:             1px solid #909090;
+color:              #2a2a2a;
 padding:            5px 5px 2px;
 border-collapse:    collapse;
 margin:             0px auto;
-border-radius:      25px;
-background-color:   #EEEEEE;
-position: relative;
-left: 14px;
-top:  48px
 }
 
+td, th {
+border:             thin dotted gray;
+}
 
 /*** Inputs ***/
 input[type=text] {
-  font-size:        155%;
-  border:           none;
-  background-color: #EEEEEE;
-  border-radius:      25px;
+  font-size:        115%;
+  width:            30em;
 }
 input[type=submit] {
   font-size:        125%;
-  border-radius:    25px;
-  background-color:  #999999;
-  position: relative;
-  left: 250px;
-  bottom: 0px
 }
 select {
   font-size:        125%;
