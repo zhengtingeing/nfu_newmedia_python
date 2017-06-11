@@ -1,22 +1,19 @@
 run.py
 
 
-# ¼ò½é 
-ÊÖ»úÓÎÏ·ÍõÕßÈÙÒ«µÄÓ¢ĞÛ×ÊÁÏ²éÑ¯
+# ç®€ä»‹ 
+ç½‘ç»œæ¸¸æˆè‹±é›„è”ç›Ÿçš„è‹±é›„èµ„æ–™æŸ¥è¯¢
 
 
-## ÊäÈë£º
-ÓÃ»§ÊäÈëÓ¢ĞÛÃû
-## Êä³ö£º
-ÓÃ»§µÃµ½Êä³ö½á¹ûÎª£ºÓ¢ĞÛµÄ¼¼ÄÜºÍ±³¾°¹ÊÊÂ
-## ´ÓÊäÈëµ½Êä³ö£¬±¾×é×÷Æ·Ê¹ÓÃÁË£º
-### Ä£¿é
+## è¾“å…¥ï¼š
+ç”¨æˆ·è¾“å…¥è‹±é›„å
+## è¾“å‡ºï¼š
+ç”¨æˆ·å¾—åˆ°è¾“å‡ºç»“æœä¸ºï¼šè‹±é›„çš„æŠ€èƒ½ç­‰ä¿¡æ¯
+## ä»è¾“å…¥åˆ°è¾“å‡ºï¼Œæœ¬ç»„ä½œå“ä½¿ç”¨äº†ï¼š
+### æ¨¡å—
 * [requests](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html)
-* [BeautifulSoup](http://cuiqingcai.com/1319.html)
-### Êı¾İ
-* [ÍõÕßÈÙÒ«Ó¢ĞÛÊı¾İ](http://pvp.qq.com/web201605/herolist.shtml)
 ### API
-* [ÍõÕßÈÙÒ«ÓÎÏ·¹ÙÍøÓ¢ĞÛ×ÊÁÏ](http://pvp.qq.com/web201605/herodetail/166.shtml)
+* [å¸¦ç©æ¸¸æˆå¹³å°](http://lolapi.games-cube.com/GetChampionDetail?champion_id={champion_id})
 
-## ×÷Õß³ÉÔ±£º
-¼û[_team_.tsv](_team_/_team_.tsv)
+## ä½œè€…æˆå‘˜ï¼š
+è§[_team_.tsv](_team_/_team_.tsv)
